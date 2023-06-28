@@ -1,1 +1,2 @@
-# input-color
+# input-color 
+PICK YOUR FAV COLOR WITH HTML CSS AND JS
